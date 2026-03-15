@@ -1,0 +1,43 @@
+{
+    "AnkleLigamentRehabilitation": {
+        "id": "AnkleLigamentRehabilitation",
+        "name": "踝关节 ligament康复计划",
+        "target": "arm exercise",
+        "owner": "Dr.MJ",
+        "contact": "mj@example.com",
+        "stage": [
+            {
+                "name": "introduction",
+                "display_name": "前言",
+                "total_days": 0,
+                "type": "before-surgery",
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "/public/data/ankle_plan/content.md"
+                    },
+                    {
+                        "type": "text",
+                        "value": "这是一个关于踝关节 ligament康复的计划。"
+                    }
+                ]
+            },
+            {
+                "name": "pre_rehabilitation",
+                "display_name": "术前康复",
+                "total_days": 12,
+                "type": "before-surgery",
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "/public/data/ankle_plan/content.md"
+                    },
+                    {
+                        "type": "text",
+                        "value": "这是一个关于踝关节 ligament康复的计划。"
+                    }
+                ]
+            }
+        ]
+    }
+}

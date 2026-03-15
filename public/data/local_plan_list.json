@@ -1,0 +1,9 @@
+[
+    {
+      "id": "AnkleLigamentRehabilitation",
+      "name": "踝关节韧带康复计划",
+      "target": "arm exercise",
+      "owner": "Dr.MJ",
+      "contact": "mj@example.com"
+    }
+]
