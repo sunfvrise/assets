@@ -1,10 +1,10 @@
 {
     "AnkleLigamentRehabilitation": {
         "id": "AnkleLigamentRehabilitation",
-        "name": "踝关节 ligament康复计划",
-        "target": "arm exercise",
-        "owner": "Dr.MJ",
-        "contact": "mj@example.com",
+        "name": "踝关节韧带康复计划",
+        "target": "踝关节韧带",
+        "owner": "赵嘉国主任医师",
+        "contact": "",
         "stage": [
             {
                 "name": "introduction",
@@ -14,7 +14,7 @@
                 "content": [
                     {
                         "type": "markdown",
-                        "value": "/public/data/ankle_plan/content.md"
+                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/content.md"
                     },
                     {
                         "type": "text",
@@ -30,7 +30,7 @@
                 "content": [
                     {
                         "type": "markdown",
-                        "value": "/public/data/ankle_plan/content.md"
+                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/content.md"
                     },
                     {
                         "type": "text",
