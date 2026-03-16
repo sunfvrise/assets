@@ -8,33 +8,109 @@
         "stage": [
             {
                 "name": "introduction",
-                "display_name": "前言",
+                "display_name": "踝关节外侧韧带修复或重建术后基于目标的康复方案",
                 "total_days": 0,
                 "type": "before-surgery",
                 "content": [
                     {
                         "type": "markdown",
-                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/content.md"
-                    },
-                    {
-                        "type": "text",
-                        "value": "这是一个关于踝关节 ligament康复的计划。"
+                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/introdunction.md"
                     }
                 ]
             },
             {
-                "name": "pre_rehabilitation",
+                "name": "pre-sugery",
                 "display_name": "术前康复",
-                "total_days": 12,
+                "total_days": -1,
                 "type": "before-surgery",
                 "content": [
                     {
                         "type": "markdown",
-                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/content.md"
-                    },
+                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/pre-sugery.md"
+                    }
+                ]
+            },
+            {
+                "name": "after_sugery_intro",
+                "display_name": "术后康复",
+                "total_days": 0,
+                "type": "after-surgery",
+                "content": [
                     {
-                        "type": "text",
-                        "value": "这是一个关于踝关节 ligament康复的计划。"
+                        "type": "markdown",
+                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/after_sugery_intro.md"
+                    }
+                ]
+            },
+            {
+                "name": "after_sugery_w_0_2",
+                "display_name": "术后即刻阶段",
+                "total_days": 14,
+                "type": "after-surgery",
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/after_sugery_w_0_2.md"
+                    }
+                ]
+            },
+            {
+                "name": "after_sugery_w_3_6",
+                "display_name": "术后阶段：2周-6周",
+                "total_days": 24,
+                "type": "after-surgery",
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/after_sugery_w_3_6.md"
+                    }
+                ]
+            },
+            {
+                "name": "after_sugery_w_7",
+                "display_name": "早期康复阶段",
+                "total_days": 7,
+                "type": "after-surgery",
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/after_sugery_w_7.md"
+                    }
+                ]
+            },
+            {
+                "name": "after_sugery_w_8-11",
+                "display_name": "后期康复阶段",
+                "total_days": 21,
+                "type": "after-surgery",
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/after_sugery_w_8-11.md"
+                    }
+                ]
+            },
+            {
+                "name": "after_sugery_w_12_16",
+                "display_name": "重返运动阶段",
+                "total_days": 35,
+                "type": "after-surgery",
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/after_sugery_w_12_16.md"
+                    }
+                ]
+            },
+            {
+                "name": "after_sugery_w_17",
+                "display_name": "重返竞技运动",
+                "total_days": -1,
+                "type": "after-surgery",
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "https://sunfvrise.github.io/assets/public/data/ankle_plan/after_sugery_w_17.md"
                     }
                 ]
             }
