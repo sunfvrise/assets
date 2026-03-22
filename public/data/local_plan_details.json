@@ -22,6 +22,7 @@
                 "name": "pre-sugery",
                 "display_name": "术前康复",
                 "total_days": -1,
+                "suggest_offset": -1,
                 "type": "before-surgery",
                 "content": [
                     {
@@ -46,6 +47,7 @@
                 "name": "after_sugery_w_0_2",
                 "display_name": "术后即刻阶段",
                 "total_days": 14,
+                "suggest_offset": 13,
                 "type": "after-surgery",
                 "content": [
                     {
@@ -58,6 +60,7 @@
                 "name": "after_sugery_w_3_6",
                 "display_name": "术后阶段：2周-6周",
                 "total_days": 24,
+                "suggest_offset": 41,
                 "type": "after-surgery",
                 "content": [
                     {
@@ -70,6 +73,7 @@
                 "name": "after_sugery_w_7",
                 "display_name": "早期康复阶段",
                 "total_days": 7,
+                "suggest_offset": 55,
                 "type": "after-surgery",
                 "content": [
                     {
@@ -82,6 +86,7 @@
                 "name": "after_sugery_w_8-11",
                 "display_name": "后期康复阶段",
                 "total_days": 21,
+                "suggest_offset": 83,
                 "type": "after-surgery",
                 "content": [
                     {
@@ -94,6 +99,7 @@
                 "name": "after_sugery_w_12_16",
                 "display_name": "重返运动阶段",
                 "total_days": 35,
+                "suggest_offset": 118,
                 "type": "after-surgery",
                 "content": [
                     {
@@ -106,6 +112,7 @@
                 "name": "after_sugery_w_17",
                 "display_name": "重返竞技运动",
                 "total_days": -1,
+                "suggest_offset": 9999,
                 "type": "after-surgery",
                 "content": [
                     {
